@@ -1,5 +1,5 @@
  
-var c = 15;
+var c = 5;
 var b = 2;
-var result = c + b;
-alert(result); 
+var a = 10;
+console.log(c + a + b);
