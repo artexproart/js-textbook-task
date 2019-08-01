@@ -1,3 +1,3 @@
  
-var age = 47;
-console.log("Мне" +age+ "лет");
+var name = prompt('What is your name?');
+alert('Your name:' +name);
