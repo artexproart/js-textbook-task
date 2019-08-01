@@ -1,3 +1,3 @@
  
-var name = "Andrey", hi = "Hello";
-console.log(hi +" "+ name);
+var age = 47;
+console.log("Мне" +age+ "лет");
