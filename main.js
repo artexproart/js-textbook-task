@@ -1,3 +1,3 @@
  
-var name = prompt('What is your name?');
-alert('Your name:' +name);
+var name = prompt('Напишите любое число');
+alert(name*name);
