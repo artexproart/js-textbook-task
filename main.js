@@ -1,3 +1,3 @@
- 
-var str = '12345';
-console.log(str[0] * str[1] * str[2] * str[3] * str[4]);
+console.log(60 * 60); //в часе
+console.log(60 * 60 * 24); //в сутках
+console.log(60 * 60 * 30); //в месяце
