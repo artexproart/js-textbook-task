@@ -1,3 +1,3 @@
  
-var str = "Hello word!";
-console.log(str);
+var name = "Andrey", hi = "Hello";
+console.log(hi +" "+ name);
