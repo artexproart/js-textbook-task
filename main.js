@@ -1,5 +1,7 @@
  
-var c = 5;
-var b = 2;
-var a = 10;
-console.log(c + a + b);
+var a = 17;
+var b = 10;
+var c = (a - b);
+var d = 7;
+var result = (c + d)
+console.log(result);
