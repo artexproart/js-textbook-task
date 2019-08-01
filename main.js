@@ -1,6 +1,3 @@
  
-var str = 'abcd';
-alert(str[0]);
-alert(str[1]);
-alert(str[2]);
-alert(str[3]);
+var str = '12345';
+console.log(str[0] * str[1] * str[2] * str[3] * str[4]);
