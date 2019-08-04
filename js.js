@@ -1,7 +1,7 @@
-var a = 20 ;
-if (a == 0 || a == 2) {
-    console.log(a + 7);
-} 
-else {
-    console.log(a / 10);
+var a = 2;
+var b = 4;
+if (a <= 1 || b >= 5) {
+    console.log(a + b);
+} else {
+    console.log(a - b);
 }
